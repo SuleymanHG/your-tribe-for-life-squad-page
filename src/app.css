@@ -164,6 +164,11 @@ h1{
         border-radius: 1em;
         display: block;
         background: url('lib/assets/placeholder.jpg') center/cover no-repeat;
+        filter: grayscale(100);
+
+        &:hover{
+            filter:grayscale(0);
+        }
     }
 }
 
