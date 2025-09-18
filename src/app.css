@@ -153,3 +153,18 @@ img{
     cursor: pointer;
     transition: background 0.3s ease, color 0.3s ease;
 }
+
+.path-1{
+    stroke: var(--button-text-color);
+    fill: var(--button-background-color);
+}
+
+.path-2{
+    stroke: var(--button-text-color);
+    fill: var(--button-background-color);
+}
+
+.path-3{
+    stroke: var(--button-background-color);
+    fill: var(--button-text-color);
+}
