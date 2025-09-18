@@ -113,6 +113,8 @@ body{
     linear-gradient(var(--background-color),var(--background-color));
 }
 
+
+
 .layout-cards {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
