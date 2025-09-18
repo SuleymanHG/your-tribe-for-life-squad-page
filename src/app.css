@@ -24,7 +24,7 @@
     --grid-shift:2em;
 
     @media(prefers-color-scheme: dark){
-        --background-color: #1E1E1E;
+        --background-color: #0E0E0E;
         --button-background-color: #66E5BF;
         --button-text-color: #050542;
         --button-border-color: #050542;
@@ -34,7 +34,7 @@
     }
 
     .dark-mode-active { 
-        --background-color: #1E1E1E;
+        --background-color: #0E0E0E;
         --button-background-color: #66E5BF;
         --button-text-color: #050542;
         --button-border-color: #050542;
