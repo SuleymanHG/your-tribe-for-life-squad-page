@@ -165,6 +165,9 @@ h1{
         display: block;
         background: url('lib/assets/placeholder.jpg') center/cover no-repeat;
         filter: grayscale(100);
+        transition: filter .25s ease; 
+        will-change: filter;
+        
 
         &:hover{
             filter:grayscale(0);
