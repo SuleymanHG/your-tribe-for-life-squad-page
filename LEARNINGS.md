@@ -9,6 +9,11 @@ Doe een rondje per vraag
 3. Wat zouden we de volgende keer beter willen doen als team?
 4. Welke code conventies hebben we toegepast?
 
+Antwoorden:
+- Anouar:
+- Süleyman:
+- Mikiyas:
+
 ## Individuele feedback
 
 Geef feedback aan teamleden
